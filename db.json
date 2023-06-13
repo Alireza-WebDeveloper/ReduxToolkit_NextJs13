@@ -1,0 +1,29 @@
+{
+    "course": [
+      {
+        "title": "JavaScript",
+        "description": "Learn the fundamentals of JavaScript programming language.",
+        "img": "https://www.freecodecamp.org/news/content/images/2021/06/javascriptfull.png",
+        "id": 1
+      },
+      {
+        "title": "React",
+        "img": "https://s3.ap-southeast-1.amazonaws.com/arrowhitech.com/wp-content/uploads/2021/09/01031030/ReactJS.png",
+        "description": "Master the React library for building modern and interactive user interfaces.",
+        "id": 2
+      },
+      {
+        "title": "Bootstrap",
+        "img": "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-social.png",
+        "description": "Learn how to use Bootstrap framework for responsive web design and development.",
+        "id": 3
+      },
+      {
+        "title": "Next.js",
+        "img": "https://www.educative.io/v2api/editorpage/6452289848475648/image/5294398307303424",
+        "description": "Explore Next.js framework for building server-side rendered React applications.",
+        "id": 4
+      }
+    ]
+  }
+  
